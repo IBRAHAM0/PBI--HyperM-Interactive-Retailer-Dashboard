@@ -2,7 +2,8 @@ HyberM - Retailer Analysis Project
 
 Overview
 
-	This project provides an interactive Power BI dashboard for analyzing retail sales across different outlets. It visualizes sales performance based on location, store size, and items, segmented by fat content, outlet type, and establishment year.
+	This project provides an interactive Power BI dashboard for analyzing retail sales across different outlets.
+	It visualizes sales performance based on location, store size, and items, segmented by fat content, outlet type, and establishment year.
 
 Key Insights
 
