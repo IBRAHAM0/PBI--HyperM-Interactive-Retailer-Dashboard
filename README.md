@@ -1,4 +1,4 @@
-HyberM - Retailer Analysis Project
+HyperM - Retailer Analysis Project
 
 Overview
 
